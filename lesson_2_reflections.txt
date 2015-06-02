@@ -1,0 +1,7 @@
+¿Que pasa cuando inicializas un repositorio?   ¿Por que es necesario hacero?
+Crea la carpate .git, donde guarda todos los metadatos del proyecto (control de versiones)
+Es necesario hacerlo, porque de lo contrario seguiria siendo una carpeta comun y corriente y no un repositorio.
+
+
+¿Como es diferente el "staging area" de una carpeta de trabajo y de un repositorio? ¿Cual es el valor que esta ofrece?
+El staging area se caracteriza por ser un area de ensayo, en la cual puede haber retroceso en cierto punto.    Agrega valor, ya que sobre esta se puede trabajar y hacer cambios, sin que precisamente tenga que actualizarse el repositorio Master.   
