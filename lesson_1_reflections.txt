@@ -1,0 +1,27 @@
+¿como es que el ver 2 versiones diferentes de un archivo te ayuda a visualizar un error escrito?
+
+porque se puede comparar el codigo y ver en cualquiera de los dos en que nos hemos equivocado.... 
+
+
+
+¿Como el tener acceso al historial completo de un archivo te hace mas eficiente como programador a largo termino?
+
+Se puede reconocer mas rapido los errores al ver varias versiones del codigo sobre el cual se viene trabajando....  
+Al tener varias versiones de lo que vas trabajando puedes reutilizar el codigo para otros proyectos similares.
+
+
+¿Desventajas de control de versiones con las herramientas vistas como dropbox, googledocs?
+
+
+¿Cuales crees que sean los pros y los contras de elegir cuando hacer un commit de forma manual (como lo haces con git), contra que los cambios se hagan de forma automática (como google docs lo hace)?
+
+Porque le puedes agregar el comentario y se hace cuando se tiene un cambio lógickso (cuando vale la pena hacer la actualización), el usuario tiene el control de cuando desea ver un cambio de versión.
+
+
+¿Por qué crees que algunos sistemas de control de versiones permiten guardar los cambios de multiples archivos en un commit, mientras otros como Google Docs manejan cada archivo de forma separada?
+
+Por que permite llevar el control del un proyecto aunque se hayan realizado cambios en muchos archivos, ya que uno no puede recordar todos los arhivos que pudo cambiar en un día.
+
+Ahora que tienes configurado tu entorno de trabajo ¿que te gustaria hacer utilizando git?
+
+Un html con versiones (commits)
