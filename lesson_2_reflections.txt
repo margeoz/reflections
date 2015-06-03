@@ -5,3 +5,12 @@ Es necesario hacerlo, porque de lo contrario seguiria siendo una carpeta comun y
 
 ¿Como es diferente el "staging area" de una carpeta de trabajo y de un repositorio? ¿Cual es el valor que esta ofrece?
 El staging area se caracteriza por ser un area de ensayo, en la cual puede haber retroceso en cierto punto.    Agrega valor, ya que sobre esta se puede trabajar y hacer cambios, sin que precisamente tenga que actualizarse el repositorio Master.   
+
+
+¿Como puedes usar el "staging area" para asegurarte que tienes un commit por cambio lógico?
+pendiente
+
+
+¿Cuales son algunas situaciones en las que los branches te ayudarian a mantener tu historial organizado?  ¿Como podrian los branches ayudar?
+Ayudarian de tal forma que si uno maneja un version alternativa con agregados de un proyecto, no hay necesidad de alterar el proyecto original, sino que mantiene su forma intacta.
+Ayudarian a llevar control de un proyecto con agregados personalizados manejados desde los branches.
