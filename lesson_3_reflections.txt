@@ -2,4 +2,15 @@
 
 Porque yo sabria en que momento es recomendable subir la versión que creo que ya este para ser compartida o respaldada en la plataforma, de lo contrario estaria sincronizando a cada momento quiza cambios que necesite deshacer.
 
+Describe las diferencias entre fork, clone y branches y di para que se utiliza cada uno.
 
+El fork es llevar una copia del repositorio de alguien mas a tu cuenta en github, el clone es descargar el repositorio de alguien mas al git de manera local o hacer una copia de un repositorio local hacia tu cuenta local, y los branches se utilizan para realizar proyectos alternativos o ramas a partir de un master ya trabajado.
+
+¿Cual es el beneficio de tener una copia del ultimo estado conocido de forma local?
+Se puede trabajar sobre la version mas reciente y se evitarian conflictos de haber movido la misma linea que quiza un colaborador movio.  
+
+¿Cómo trabajarías con algún colaborador de no tener Git o GitHub como herramienta? ¿Cuál sería la parte más fácil y la más dificil?
+Con herramientas como bropbox o googledrive en carpetas compartidas.  la parte mas facil seria la de sincronizar la ultima versión, la mas dificil sería la de que no existiria una buena administración de control de versiones, ni comparar archivos.
+
+¿Cuando es ideal para ti hacer cambios en un branch independiente en lugar de hacerlos directamente al master branch? ¿Por que?  ¿Que beneficios tiene cada uno?
+Cuando se esta trabajando con un colaborador sobre el mismo archivo.  Porque si existen conflictos se trabaja en reparar sobre el branch y no sobre el master.  
