@@ -1,1 +1,5 @@
-Hola este es un nuevo arhivo desde github
+¿Por qué querrias hacer siempre tus "pull" de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática?
+
+Porque yo sabria en que momento es recomendable subir la versión que creo que ya este para ser compartida o respaldada en la plataforma, de lo contrario estaria sincronizando a cada momento quiza cambios que necesite deshacer.
+
+
